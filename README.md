@@ -12,7 +12,7 @@ This repository is tailored for ethical hackers, cybersecurity researchers, and 
 | 📁 **Metadata**     | Tools for extracting metadata from documents, images, etc. | [View tools](./metadata/README.md) |
 | 🕸️ **Dark Web**     | Tools for accessing and analyzing dark web content | [View tools](./darkweb/README.md) |
 | 🧰 **Misc Tools**   | Useful utilities and complementary OSINT tools   | [View tools](./tools/README.md) |
-| 🌍 **Browser**      | Tools for collecting OSINT via web browsers and extensions | [View tools](browser/README.md) |
+| 🌍 **Browser**      | Tools for collecting OSINT via web browsers and extensions | [View tools](./Browsers/README.md) |
 | 🔐 **Cybersec**     | Tools designed for cybersecurity, threat intelligence, and vulnerability analysis | [View tools](./cybersec/README.md) |
 
 ---

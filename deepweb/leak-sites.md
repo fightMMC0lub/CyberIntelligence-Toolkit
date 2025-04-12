@@ -2,7 +2,7 @@
 
 | Tool Name | Description | Link | Platform | Notes |
 |----------|-------------|------|----------|-------|
-| GrayHatWarfare | Public buckets search | https://buckets.grayhatwarfare.com | Web | Cloud storage finder |
+| GrayHatWarfare | Public buckets search | [Link](https://buckets.grayhatwarfare.com) | Web | Cloud storage finder |
 | LeakIX | Leaked data index | [Link](https://leakix.net) | Web | Open reporting platform |
 | DeHashed | Breach database | [Link](https://dehashed.com) | Web | Requires subscription |
 | SnusBase | Breach search engine | [Link](https://www.snusbase.com) | Web | Paid service |

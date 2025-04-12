@@ -6,3 +6,4 @@
 | Hunter.io | Email finding tool | https://hunter.io | Web | API available |
 | Epieos | Email/identity search | https://tools.epieos.com | Web | Multiple search modes |
 | Spytox | People search engine | https://www.spytox.com | Web | Phone number lookup |
+| Holehe    | Email breach checker          | [GitHub](https://github.com/megadose/holehe)   | CLI      | Checks 120+ breach sources |

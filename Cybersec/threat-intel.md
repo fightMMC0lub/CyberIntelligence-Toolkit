@@ -13,3 +13,6 @@ This section focuses on tools used in cybersecurity and threat intelligence, suc
 | ZoomEye | Cyberspace mapping | https://www.zoomeye.org | Web | Chinese service |
 | IntelX | Search engine/archive | https://intelx.io | Web | Dark web included |
 | VirusTotal | File analysis | https://www.virustotal.com | Web | Multi-engine scan |
+| H8mail            | Email/password breach checker               | [GitHub](https://github.com/khast3x/h8mail)                          | CLI      | Supports .txt & .csv inputs    |
+| Search That Hash  | Hash decryption tool                        | [GitHub](https://github.com/HashPals/Search-That-Hash)               | CLI      | Checks 20+ hash databases      |
+| Name That Hash    | Hash type identifier                        | [GitHub](https://github.com/HashPals/Name-That-Hash)                 | CLI      | Auto-detects 300+ hash types   |

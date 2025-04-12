@@ -7,13 +7,13 @@ This repository is tailored for ethical hackers, cybersecurity researchers, and 
 
 | Category        | Description                                      | Link |
 |-----------------|--------------------------------------------------|------|
-| 🔍 **OSINT**        | General tools for collecting and analyzing public information | [View tools](./osint/README.md) |
-| 🌐 **Recon**        | Tools for domain reconnaissance, DNS, IP scanning | [View tools](./recon/README.md) |
-| 📁 **Metadata**     | Tools for extracting metadata from documents, images, etc. | [View tools](./metadata/README.md) |
-| 🕸️ **Dark Web**     | Tools for accessing and analyzing dark web content | [View tools](./darkweb/README.md) |
-| 🧰 **Misc Tools**   | Useful utilities and complementary OSINT tools   | [View tools](./tools/README.md) |
+| 🔍 **OSINT**        | General tools for collecting and analyzing public information | [View tools](./Osint/README.md) |
+| 🌐 **Recon**        | Tools for domain reconnaissance, DNS, IP scanning | [View tools](./Recon/README.md) |
+| 📁 **Metadata**     | Tools for extracting metadata from documents, images, etc. | [View tools](./Metadata/README.md) |
+| 🕸️ **Dark Web**     | Tools for accessing and analyzing dark web content | [View tools](./Darkweb/README.md) |
+| 🧰 **Misc Tools**   | Useful utilities and complementary OSINT tools   | [View tools](./Tools/README.md) |
 | 🌍 **Browser**      | Tools for collecting OSINT via web browsers and extensions | [View tools](./Browsers/README.md) |
-| 🔐 **Cybersec**     | Tools designed for cybersecurity, threat intelligence, and vulnerability analysis | [View tools](./cybersec/README.md) |
+| 🔐 **Cybersec**     | Tools designed for cybersecurity, threat intelligence, and vulnerability analysis | [View tools](./Cybersec/README.md) |
 
 ---
 

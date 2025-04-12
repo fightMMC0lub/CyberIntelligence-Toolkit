@@ -16,8 +16,8 @@ This repository is tailored for ethical hackers, cybersecurity researchers, and 
 | 🗂️ **Metadata Analysis**     | Extract metadata from files like images, PDFs, and documents          | [View tools](./Tools/metadata.md) |
 | 🕷️ **Web Crawlers**         | Automated scraping and crawling of websites                            | [View tools](./Tools/web-crawlers.md) |
 | 🧱 **Frameworks**           | Collections, platforms, and unified OSINT toolkits                     | [View tools](./frameworks/general.md) |
-| 🌍 **Browser Extensions**   | Browser add-ons for reconnaissance and data collection                 | [View tools](./Browser/extensions.md) |
-| 🧬 **Browser Fingerprinting**| Tools to analyze browser tracking, uniqueness, and behavior           | [View tools](./Browser/fingerprinting.md) |
+| 🌍 **Browser Extensions**   | Browser add-ons for reconnaissance and data collection                 | [View tools](./Browsers/extensions.md) |
+| 🧬 **Browser Fingerprinting**| Tools to analyze browser tracking, uniqueness, and behavior           | [View tools](./Browsers/fingerprinting.md) |
 | 🔐 **Cybersecurity / Threat Intel** | Threat intelligence platforms and security-focused tools       | [View tools](./Cybersec/threat-intel.md) |
 
 ---

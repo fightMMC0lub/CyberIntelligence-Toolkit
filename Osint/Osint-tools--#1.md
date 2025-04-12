@@ -1,4 +1,4 @@
-# 🕵️ OSINT Tools 
+# 🕵️ OSINT Tools #1
 
 | Tool Name | Description | Link | Platform | Notes |
 |----------|-------------|------|----------|-------|

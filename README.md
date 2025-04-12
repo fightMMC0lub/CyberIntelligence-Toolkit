@@ -11,14 +11,14 @@ This repository is tailored for ethical hackers, cybersecurity researchers, and 
 | 🕵️‍♀️ **People Search**       | Find individuals through search engines, databases, and directories     | [View tools](./surface/people-search.md) |
 | 📱 **Social Media OSINT**   | Extract intel from social platforms and messaging apps                 | [View tools](./surface/social-media-osint.md) |
 | 🌊 **Deep Web**             | Hidden sources like pastebins, leak databases, and non-indexed data    | [View tools](./deepweb/leak-sites.md) |
-| 🕸️ **Dark Web**             | Onion services, dark marketplaces, forums, and hidden resources        | [View tools](./darkweb/onion-services.md) |
-| 🛠️ **Recon**                | Tools for scanning, discovery, and domain investigation                | [View tools](./tools/recon.md) |
-| 🗂️ **Metadata Analysis**     | Extract metadata from files like images, PDFs, and documents          | [View tools](./tools/metadata.md) |
-| 🕷️ **Web Crawlers**         | Automated scraping and crawling of websites                            | [View tools](./tools/web-crawlers.md) |
+| 🕸️ **Dark Web**             | Onion services, dark marketplaces, forums, and hidden resources        | [View tools](./Darkweb/onion-services.md) |
+| 🛠️ **Recon**                | Tools for scanning, discovery, and domain investigation                | [View tools](./Tools/recon.md) |
+| 🗂️ **Metadata Analysis**     | Extract metadata from files like images, PDFs, and documents          | [View tools](./Tools/metadata.md) |
+| 🕷️ **Web Crawlers**         | Automated scraping and crawling of websites                            | [View tools](./Tools/web-crawlers.md) |
 | 🧱 **Frameworks**           | Collections, platforms, and unified OSINT toolkits                     | [View tools](./frameworks/general.md) |
-| 🌍 **Browser Extensions**   | Browser add-ons for reconnaissance and data collection                 | [View tools](./browser/extensions.md) |
-| 🧬 **Browser Fingerprinting**| Tools to analyze browser tracking, uniqueness, and behavior           | [View tools](./browser/fingerprinting.md) |
-| 🔐 **Cybersecurity / Threat Intel** | Threat intelligence platforms and security-focused tools       | [View tools](./cybersec/threat-intel.md) |
+| 🌍 **Browser Extensions**   | Browser add-ons for reconnaissance and data collection                 | [View tools](./Browser/extensions.md) |
+| 🧬 **Browser Fingerprinting**| Tools to analyze browser tracking, uniqueness, and behavior           | [View tools](./Browser/fingerprinting.md) |
+| 🔐 **Cybersecurity / Threat Intel** | Threat intelligence platforms and security-focused tools       | [View tools](./Cybersec/threat-intel.md) |
 
 ---
 

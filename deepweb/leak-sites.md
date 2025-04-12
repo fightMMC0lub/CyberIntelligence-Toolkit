@@ -31,4 +31,4 @@
 | DOGE | Graph explorer | [Link](https://github.com/pielco11/DOGE) | CLI | Relationship mapping |
 | R6ogx3 | Unknown service* | [Link](http://r6ogx3w3s6rg3gxm3kprurn77z2oim665yr5pcxhr76yit4g65y76zad.onion) | Onion | Unverified content |
 | EpsteinBlackBook | Controversial list | [Link](https://epsteinsblackbook.com) | Web+Tor | Contains onion links |
-| DarkWebNews | Monitoring site | (Multiple .onion links in content) | Hybrid | Aggregates darknet info |
+| DarkWebNews | Monitoring site | (**Comming Soon!!):** ) | Hybrid | Aggregates darknet info |

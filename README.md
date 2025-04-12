@@ -18,7 +18,7 @@ This repository is tailored for ethical hackers, cybersecurity researchers, and 
 |🔍 **OSINT/Reconnaissance #1** | Open-source intelligence and data-gathering platforms                | [View tools](./Osint/Osint-1-tools.md) |
 |🔍 **OSINT/Reconnaissance #2** | Open-source intelligence and data-gathering platforms                | [View tools](./Osint/Osint-2-tools.md) |
 |🔍 **OSINT/Reconnaissance #2** | Open-source intelligence and data-gathering platforms                | [View tools](./Osint/Osint-3-tools.md) |
-}**📜 Document & Legal** | Public records search, legal document databases, and archival resources     | [View tools](./Document/document-legal.md) |
+|**📜 Document & Legal** | Public records search, legal document databases, and archival resources     | [View tools](./Document/document-legal.md) |
 | 🧱 **Frameworks**           | Collections, platforms, and unified OSINT toolkits                     | [View tools](./frameworks/general.md) |
 | 🌍 **Browser Extensions**   | Browser add-ons for reconnaissance and data collection                 | [View tools](./Browsers/extensions.md) |
 | 🧬 **Browser Fingerprinting**| Tools to analyze browser tracking, uniqueness, and behavior           | [View tools](./Browsers/fingerprinting.md) |

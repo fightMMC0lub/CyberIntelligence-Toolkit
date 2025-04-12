@@ -1,20 +1,24 @@
-#  🕵️‍♂️ CyberIntelligence-Toolkit
+# 🕵️‍♂️ CyberIntelligence-Toolkit
 
 A comprehensive and categorized list of powerful Open Source Intelligence (OSINT) tools.  
 This repository is tailored for ethical hackers, cybersecurity researchers, and intelligence analysts.
 
 ## 📂 Categories
 
-| Category        | Description                                      | Link |
-|-----------------|--------------------------------------------------|------|
-| 🔍 **OSINT**                     | General tools for collecting and analyzing public information | [View tools](./Osint/README.md) |
-| 🌐 **Recon**                     | Tools for domain reconnaissance, DNS, IP scanning | [View tools](./Recon/README.md) |
-| 📁 **Metadata**                  | Tools for extracting metadata from documents, images, etc. | [View tools](./Metadata/README.md) |
-| 🕸️ **Dark Web**                  | Tools for accessing and analyzing dark web content | [View tools](./Darkweb/README.md) |
-| 🧰 **Misc Tools**                | Useful utilities and complementary OSINT tools   | [View tools](./Tools/README.md) |
-| 🌍 **Browser_extensions**        | OSINT tools in the form of browser add-ons | [View tools](./Browsers/extensions.md) |
-| 🌍 **Browser_fingerprinting**    | Tools for analyzing browser-based tracking data | [View tools](./Browsers/fingerprinting.md) |
-| 🔐 **Cybersec**                  | Tools designed for cybersecurity, threat intelligence, and vulnerability analysis | [View tools](./Cybersec/threat-intel.md) |
+| Category               | Description                                                              | Link |
+|------------------------|--------------------------------------------------------------------------|------|
+| 🌐 **Surface Web**         | Tools and services for gathering information from the public web        | [View tools](./surface/search-engines.md) |
+| 🕵️‍♀️ **People Search**       | Find individuals through search engines, databases, and directories     | [View tools](./surface/people-search.md) |
+| 📱 **Social Media OSINT**   | Extract intel from social platforms and messaging apps                 | [View tools](./surface/social-media-osint.md) |
+| 🌊 **Deep Web**             | Hidden sources like pastebins, leak databases, and non-indexed data    | [View tools](./deepweb/leak-sites.md) |
+| 🕸️ **Dark Web**             | Onion services, dark marketplaces, forums, and hidden resources        | [View tools](./darkweb/onion-services.md) |
+| 🛠️ **Recon**                | Tools for scanning, discovery, and domain investigation                | [View tools](./tools/recon.md) |
+| 🗂️ **Metadata Analysis**     | Extract metadata from files like images, PDFs, and documents          | [View tools](./tools/metadata.md) |
+| 🕷️ **Web Crawlers**         | Automated scraping and crawling of websites                            | [View tools](./tools/web-crawlers.md) |
+| 🧱 **Frameworks**           | Collections, platforms, and unified OSINT toolkits                     | [View tools](./frameworks/general.md) |
+| 🌍 **Browser Extensions**   | Browser add-ons for reconnaissance and data collection                 | [View tools](./browser/extensions.md) |
+| 🧬 **Browser Fingerprinting**| Tools to analyze browser tracking, uniqueness, and behavior           | [View tools](./browser/fingerprinting.md) |
+| 🔐 **Cybersecurity / Threat Intel** | Threat intelligence platforms and security-focused tools       | [View tools](./cybersec/threat-intel.md) |
 
 ---
 

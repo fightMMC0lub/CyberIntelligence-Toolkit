@@ -25,7 +25,6 @@ This repository is tailored for ethical hackers, cybersecurity researchers, and 
 | 🔐 **Cybersecurity / Threat Intel** | Threat intelligence platforms and security-focused tools       | [View tools](./Cybersec/threat-intel.md) |
 
 ---
-📜 Document & Legal | Public records search, legal document databases, and archival resources | View tools |
 
 
 ## 📢 License

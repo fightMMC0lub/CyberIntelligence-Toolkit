@@ -7,7 +7,6 @@
 | DeHashed | Breach database | [Link](https://dehashed.com) | Web | Requires subscription |
 | SnusBase | Breach search engine | [Link](https://www.snusbase.com) | Web | Paid service |
 | BreachDB | Leaked databases | [Link](http://breachdbsz...qd.onion) | Onion | 12B+ accounts |
-| FuckFacebook | Facebook onion service | [Link](http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion) | Onion | Alternative access point |
 | JudicialReview | Court case search | [Link](http://caseslrwwcr744frvczmogqpa5jxfl6qhx3fxi2ne5pnro4yvsevhzid.onion/en/) | Onion | Legal document archive |
 | Bibliogram | Instagram viewer | [Link](http://rlp5gt4d7dtkok3yaogocbcvrs2tdligjrxipsamztjq4wwpxzjeuxqd.onion) | Onion | Privacy-focused alternative |
 | RelateList | Relationship mapping | [Link](http://relateoak2hkvdty6ldp7x67hys7pzaeax3hwhidbqkjzva3223jpxqd.onion) | Onion | Social connection analysis |

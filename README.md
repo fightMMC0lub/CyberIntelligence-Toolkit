@@ -11,8 +11,6 @@ This repository is tailored for ethical hackers, cybersecurity researchers, and 
 | 🌐 **Surface Web**         | Tools and services for gathering information from the public web        | [View tools](./surface/search-engines.md) |
 | 🕵️‍♀️ **People Search**       | Find individuals through search engines, databases, and directories     | [View tools](./surface/people-search.md) |
 | 📱 **Social Media OSINT**   | Extract intel from social platforms and messaging apps                 | [View tools](./surface/social-media-osint.md) |
-| 🌊 **Deep Web**             | Hidden sources like pastebins, leak databases, and non-indexed data    | [View tools](./deepweb/leak-sites.md) |
-| 🕸️ **Dark Web**             | Onion services, dark marketplaces, forums, and hidden resources        | [View tools](./Darkweb/onion-services.md) |
 | 🛠️ **Recon**                | Tools for scanning, discovery, and domain investigation                | [View tools](./Tools/recon.md) |
 | 🗂️ **Metadata Analysis**     | Extract metadata from files like images, PDFs, and documents          | [View tools](./Tools/metadata.md) |
 | 🕷️ **Web Crawlers**         | Automated scraping and crawling of websites                            | [View tools](./Tools/web-crawlers.md) |

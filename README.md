@@ -35,11 +35,5 @@ This project is licensed under the **MIT License**.
 
 ## 🌐 Contact
 
-- Website: [fightMMC0lub.github.io](https://fightmmc0lub.github.io)
-- Blog: [The 0xTech World](https://the0xtechworld.blogspot.com/)
-- Blog: [TCH World on Hashnode](https://tchworld.hashnode.dev/)
-- LinkedIn: [Fouad Azahaf](https://www.linkedin.com/in/fouad-azahaf-51a783335/)
-- GitHub: [fightMMC0lub](https://github.com/fightMMC0lub)
-
 > ⚠️ For **educational and ethical use only**. Always ensure compliance with local laws and ethical standards.
 

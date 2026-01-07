@@ -2,7 +2,7 @@
 ![image GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3M1anpxYjZ1a2FuY20wbjV0Z28xNjBudWgzMzdnYWN6YzU5amY0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bJ4TVNYNUympPgcpem/giphy.gif)
 
 A comprehensive and categorized list of powerful Open Source Intelligence (OSINT) tools.  
-This repository is tailored for ethical hackers, cybersecurity researchers, and intelligence analysts.
+This repository is tailored cybersecurity researchers, and intelligence analysts.
 
 ## 📂 Categories
 
